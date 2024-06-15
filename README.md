@@ -26,3 +26,15 @@ npm install
 ```bash
 npx playwright install
 ```
+
+5. Execute Tests
+
+```bash
+npx playwright test
+```
+
+6. Display report
+
+```bash
+npx playwright show-report
+```
